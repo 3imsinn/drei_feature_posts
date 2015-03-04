@@ -1,0 +1,60 @@
+.drei_list{
+    list-style-image:url(icon.png); 
+   
+}
+
+
+.drei_white{
+background-color: #fff;
+}
+
+.drei_feature_box {
+border-color: #e21c2b;
+border-style: solid;
+border-left-width: 1px; 
+border-right-width: 1px; 
+border-bottom-width: 1px;   
+height: auto; 
+
+}
+
+
+.drei_feature_box_header {
+background-color: #e21c2b;
+padding-left: 10px;     
+padding-right: 10px;     
+padding-top: 2px;     
+padding-bottom: 5px;     
+color: #fff; 
+}
+
+
+.drei_feature_box_body{
+    width:100%;
+    min-height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+}
+    
+.drei_feature_box_body_left{
+float:right; 
+width:70%; 
+height: auto; 
+margin-left: 5px;    
+margin-top: 5px; 
+padding-top: 5px;     
+   
+}
+
+.drei_feature_box_body_left{
+float:left; 
+width:30%;    
+height: auto;
+padding-top: 5px;     
+margin-right: 5px;    
+margin-top: 5px;    
+padding-top: 2px;     
+}
+
+
